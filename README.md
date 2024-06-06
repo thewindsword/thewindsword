@@ -46,11 +46,6 @@ I am a full-stack engineer with years of remote work experience, primarily focus
 
 </p>
 
-<p style="display: flex;">
-
-<img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=roxas" />
-
-</p>
 
 <!--
 **thewindsword/thewindsword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
