@@ -9,9 +9,10 @@ I am a full-stack engineer with years of remote work experience, primarily focus
 我是一名远程工作多年的全栈工程师，偏前端方向，爱好折腾效率软件与自建服务，爱好广泛，正在努力捣腾自己博客和GitHub。
 
 - 🏠 Currently working from **home** / 目前在家远程工作
-- 💻 Using **JetBrains ToolBox** and **VSCode** for my work and projects / 使用 **JetBrains ToolBox** 和 **VSCode** 进行工作和项目开发
+- 💻 Using **JetBrains ToolBox** and **VSCode/Cursor** for my work and projects / 使用 **JetBrains ToolBox** 和 **VSCode/Cursor** 进行开发
 - 🗄️ Using **QNAP 464c2** as my NAS server with **Docker** for self-hosted services / 使用 **QNAP 464c2** 作为我的 NAS 服务器，并使用 **Docker** 自建服务
-- 🤖 Love automating everything like bots, scripts, and web crawlers / 热衷于自动化一切，例如机器人、脚本和网页爬虫
+- 🤖 Love automating everything like scripts and web crawlers / 热衷于自动化一切，例如脚本和网页爬虫
+- 🧠 I am currently trying to build my own AI-related workflow using Dify and OneAPI / 正在尝试使用dify与one-api搭建自己的AI相关的工作流
 - 📱 Trying to learn more about **mobile application development** technologies / 努力学习更多 **移动应用开发** 技术
 - 🎮 Avid gamer across all **major platforms** / 基本**全平台**的游戏玩家
 
