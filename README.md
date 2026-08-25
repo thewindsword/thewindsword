@@ -32,19 +32,6 @@ I am a full-stack engineer with years of remote work experience, primarily focus
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## My Progress Panel List
-
-<p style="display: flex;">
-  
-<a href="">
-  <img style="width: 49%; height: 210px;" src="https://github-readme-stats.vercel.app/api?username=thewindsword&show_icons=true&theme=slateorange" />
-</a>
-
-<a href="">
-  <img style="width: 49%; height: 210px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewindsword&layout=compact&theme=tokyonight" />
-</a>
-
-</p>
 
 
 <!--
